@@ -15,3 +15,5 @@ React, javascript, styled-components
     npm run dev
     yarn dev
   ```
+
+## 주요 기능
