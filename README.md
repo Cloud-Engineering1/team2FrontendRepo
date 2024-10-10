@@ -7,9 +7,11 @@ React, javascript, styled-components
 
   ```
     npm install
+    yarn install
   ```
 
 ### 실행 방법
   ```
     npm run dev
+    yarn dev
   ```
