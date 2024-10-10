@@ -1,4 +1,4 @@
-### 인터넷 뱅킹 클라이언트
+# 인터넷 뱅킹 클라이언트
 
 ## 사용 기술
 React, javascript, styled-components
